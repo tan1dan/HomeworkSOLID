@@ -12,6 +12,7 @@ protocol Worker {
     func work()
     func takeBreak()
 }
+
 class OfficeWorker: Worker{
     func work() {
         <#code#>
@@ -23,6 +24,7 @@ class OfficeWorker: Worker{
     
     
 }
+
 class Doctor: Worker {
     func work() {
         <#code#>
@@ -34,6 +36,7 @@ class Doctor: Worker {
     
     
 }
+
 //Good example
 protocol Work{
     func work()
@@ -60,3 +63,5 @@ class Doctor1: Work{
         <#code#>
     }
 }
+//Bad example 2
+protocol 

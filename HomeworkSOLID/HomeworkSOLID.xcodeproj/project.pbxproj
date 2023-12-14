@@ -17,6 +17,7 @@
 		F713A6B32B2B583F0022936E /* OCP.swift in Sources */ = {isa = PBXBuildFile; fileRef = F713A6B22B2B583F0022936E /* OCP.swift */; };
 		F713A6B52B2B5A4E0022936E /* LSP.swift in Sources */ = {isa = PBXBuildFile; fileRef = F713A6B42B2B5A4E0022936E /* LSP.swift */; };
 		F713A6B72B2B5C1F0022936E /* ISP.swift in Sources */ = {isa = PBXBuildFile; fileRef = F713A6B62B2B5C1F0022936E /* ISP.swift */; };
+		F713A6B92B2B5DC00022936E /* DIP.swift in Sources */ = {isa = PBXBuildFile; fileRef = F713A6B82B2B5DC00022936E /* DIP.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		F713A6B22B2B583F0022936E /* OCP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OCP.swift; sourceTree = "<group>"; };
 		F713A6B42B2B5A4E0022936E /* LSP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LSP.swift; sourceTree = "<group>"; };
 		F713A6B62B2B5C1F0022936E /* ISP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISP.swift; sourceTree = "<group>"; };
+		F713A6B82B2B5DC00022936E /* DIP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DIP.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				F713A6B22B2B583F0022936E /* OCP.swift */,
 				F713A6B42B2B5A4E0022936E /* LSP.swift */,
 				F713A6B62B2B5C1F0022936E /* ISP.swift */,
+				F713A6B82B2B5DC00022936E /* DIP.swift */,
 				F713A6A22B2B55660022936E /* Main.storyboard */,
 				F713A6A52B2B55680022936E /* Assets.xcassets */,
 				F713A6A72B2B55680022936E /* LaunchScreen.storyboard */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F713A6A12B2B55660022936E /* ViewController.swift in Sources */,
+				F713A6B92B2B5DC00022936E /* DIP.swift in Sources */,
 				F713A69D2B2B55660022936E /* AppDelegate.swift in Sources */,
 				F713A6B12B2B55900022936E /* SRP.swift in Sources */,
 				F713A6B52B2B5A4E0022936E /* LSP.swift in Sources */,
