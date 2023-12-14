@@ -35,6 +35,7 @@ class Order {
 class Order1{
     func makeOrder(){}
 }
+
 class OrderPrint{
     func printOrder(){}
 }
